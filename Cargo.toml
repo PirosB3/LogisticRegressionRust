@@ -1,0 +1,8 @@
+[package]
+
+name = "lorem"
+version = "0.0.1"
+authors = ["Daniel Pyrathon <pirosb3@gmail.com>"]
+
+[dependencies.nalgebra]
+git = "https://github.com/sebcrozet/nalgebra"
